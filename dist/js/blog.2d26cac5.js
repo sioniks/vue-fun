@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["blog"],{fd3f:function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"blog"},[t("h1",[e._v("This is an blog page")])])}],i=t("2877"),o={},a=Object(i["a"])(o,l,s,!1,null,null,null);a.options.__file="Blog.vue";n["default"]=a.exports}}]);
+//# sourceMappingURL=blog.2d26cac5.js.map
